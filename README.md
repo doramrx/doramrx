@@ -4,7 +4,7 @@
 - 🎓 I'm also graduating in Analysis and Development of Systems.
 - 🌱 I’m currently learning Spring Framework and Angular.
 
-## 🚀 Technologies
+## 🚀 Technologies 🚀
 
 ### 🖥️ Front-end
 
