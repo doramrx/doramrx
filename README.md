@@ -1,5 +1,5 @@
 ## Hello World! I'm Isa 😊
-### About me ✨
+### ✨ About me ✨
 - 💻 I’m currently working as software developer at Philips.
 - 🎓 I'm also graduating in Analysis and Development of Systems.
 - 🌱 I’m currently learning Spring Framework and Angular.
