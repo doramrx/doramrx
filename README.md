@@ -2,7 +2,7 @@
 ### ✨ About me ✨
 - 💻 I’m currently working as software developer at Philips.
 - 🎓 I'm graduating in Analysis and Development of Systems.
-- 🌱 I’m also learning Angular Framework.
+- 💡 I’m also learning Angular Framework.
 
 ## 🚀 Technologies
 
