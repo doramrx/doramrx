@@ -20,7 +20,6 @@
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=1188f0)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql&&logoColor=17cdff)
 ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
 
 ### 📋 Others
