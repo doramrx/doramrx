@@ -1,4 +1,4 @@
-## Hello World! I'm Isa 😊
+## Hello World! I'm Isadora 😊
 ### ✨ About me ✨
 - 💻 I’m currently working as software developer at Philips.
 - 🎓 I'm graduating in Analysis and Development of Systems.
