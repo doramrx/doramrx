@@ -8,24 +8,26 @@
 
 ### 🖥️ Front-end
 
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![Javascript](https://img.shields.io/badge/-Javascript-333333?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+![Javascript](https://img.shields.io/badge/-Javascript-E4B403?style=flat&logo=javascript&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-2A8DDB?style=flat&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-E21E1E?style=flat&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-FE6400?style=flat&logo=HTML5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 
 ### 🗄️ Back-end
 
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=openjdk)
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=spring)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql&logoColor=1188f0)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=flat&logo=junit5)
+![Java](https://img.shields.io/badge/-Java-FF8147?style=flat&logo=openjdk&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-71BE36?style=flat&logo=spring&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1188f0?style=flat&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-E21E1E?style=flat&logo=oracle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-53AA5E?style=flat&logo=junit5&logoColor=white)
 
 ### 📋 Others
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=eb4e15)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker&logoColor=1e60e6)
+![Git](https://img.shields.io/badge/-Git-eb4e15?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2E9DFF?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-E17400?style=flat&logo=postman&logoColor=white)
+
 
 ## 📊 My stats
 <p align="center">
