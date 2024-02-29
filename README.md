@@ -26,7 +26,7 @@
 
 ![Git](https://img.shields.io/badge/-Git-eb4e15?style=flat&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2E9DFF?style=flat&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-E17400?style=flat&logo=postman&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FE6400?style=flat&logo=postman&logoColor=white)
 ![Flyway](https://img.shields.io/badge/-Flyway-CB0505?style=flat&logo=flyway&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-5100FF?style=flat&logo=figma&logoColor=white)
 
