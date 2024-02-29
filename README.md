@@ -8,7 +8,7 @@
 
 ### 🖥️ Front-end
 
-![Javascript](https://img.shields.io/badge/-Javascript-E4B403?style=flat&logo=javascript&logoColor=white)
+![Javascript](https://img.shields.io/badge/-Javascript-D6990B?style=flat&logo=javascript&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-2A8DDB?style=flat&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-E21E1E?style=flat&logo=angular&logoColor=white)
 ![HTML](https://img.shields.io/badge/-HTML-FE6400?style=flat&logo=HTML5&logoColor=white)
