@@ -16,11 +16,11 @@
 
 ### 🗄️ Back-end
 
-![Java](https://img.shields.io/badge/-Java-FF8147?style=flat&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FE6400?style=flat&logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-71BE36?style=flat&logo=spring&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1188f0?style=flat&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/-Oracle-E21E1E?style=flat&logo=oracle&logoColor=white)
-![JUnit5](https://img.shields.io/badge/-JUnit5-53AA5E?style=flat&logo=junit5&logoColor=white)
+![JUnit5](https://img.shields.io/badge/-JUnit5-2DA543?style=flat&logo=junit5&logoColor=white)
 
 ### 📋 Others
 
