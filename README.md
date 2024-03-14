@@ -44,7 +44,6 @@
 </p>
 
 ## 📱 Where to find me
-
 <p align="center">
   <a>
     <img src="https://img.shields.io/badge/-isah3027@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:isah3027@gmail.com" />
