@@ -1,5 +1,6 @@
 ## Hello World! I'm Isadora
 ### ✨ About me ✨
+- 💻 I’m currently working as software developer intern at Senior Sistemas.
 - 🎓 I'm graduating in Analysis and Development of Systems.
 - 💡 I’m also learning Angular Framework.
 
